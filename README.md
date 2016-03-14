@@ -3,6 +3,7 @@
 	- [git](http://git-scm.com/)
 	- [gulp](http://gulpjs.com/)
 	- [ruby](http://gulpjs.com/)
+	- run `$ node -v && git --version && gulp -v && ruby -v`
 	- install gulp globally via
 		1. if mac
 			- `$ sudo npm install gulp -g`
