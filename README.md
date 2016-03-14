@@ -3,7 +3,12 @@
 	- [git](http://git-scm.com/)
 	- [gulp](http://gulpjs.com/)
 	- [ruby](http://gulpjs.com/)
-
+	- install gulp globally via
+		1. if mac
+			- `$ sudo npm install gulp -g`
+		2. else 
+			- `$ npm install gulp -g`
+		- the -g means your installing this on your system and not into the local directory
 2. Clone this repository into your local machine using the terminal (mac) or Gitbash (PC) `$ git clone https://github.com/anthonyjdoolan/workflow.git`
 3. CD to the folder into directory
 4. Install gulp.js via the Mac terminal or Gitbash on a PC 
