@@ -20,5 +20,5 @@
 	5. jshint
 	6. try running: This script installs all but the webserver. 
 		npm install --save-dev gulp-jshint && npm install --save-dev gulp-sourcemaps && npm install --save-dev jshint
-		NOTE -- IF YOU INSTALL THESE PACKAGES YOU WILL HAVE TO CHANGE THE GULPFILE.JS TO USE THEM.
+		- NOTE -- IF YOU INSTALL THESE PACKAGES YOU WILL HAVE TO CHANGE THE GULPFILE.JS TO USE THEM.
 7. Run the Gulp command  `$ gulp`
