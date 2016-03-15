@@ -6,6 +6,7 @@ sites/*/files
 sites/*/private
 *.metadata
 
+.project
 .DS_Store
 node_modules
 .tmp
